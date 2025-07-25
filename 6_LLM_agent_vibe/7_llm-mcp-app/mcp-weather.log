@@ -1,0 +1,21 @@
+2025-04-23T01:02:14.946Z [weather] [info] Initializing server...
+2025-04-23T01:02:15.064Z [weather] [info] Server started and connected successfully
+2025-04-23T01:02:15.068Z [weather] [info] Message from client: {"method":"initialize","params":{"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"claude-ai","version":"0.1.0"}},"jsonrpc":"2.0","id":0}
+Traceback (most recent call last):
+  File "F:\projects\ai\5-1.agent\mcp-weather.py", line 4, in <module>
+    from bs4 import BeautifulSoup
+ModuleNotFoundError: No module named 'bs4'
+2025-04-23T01:02:16.531Z [weather] [info] Server transport closed
+2025-04-23T01:02:16.531Z [weather] [info] Client transport closed
+2025-04-23T01:02:16.531Z [weather] [info] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log.
+2025-04-23T01:02:16.532Z [weather] [error] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging) {"context":"connection"}
+2025-04-23T01:02:16.532Z [weather] [info] Client transport closed
+2025-04-23T02:31:59.917Z [weather] [info] Initializing server...
+2025-04-23T02:31:59.983Z [weather] [info] Server started and connected successfully
+2025-04-23T02:32:00.085Z [weather] [info] Message from client: {"method":"initialize","params":{"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"claude-ai","version":"0.1.0"}},"jsonrpc":"2.0","id":0}
+Failed to run server: No module named 'requests'
+2025-04-23T02:32:02.430Z [weather] [info] Server transport closed
+2025-04-23T02:32:02.431Z [weather] [info] Client transport closed
+2025-04-23T02:32:02.431Z [weather] [info] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log.
+2025-04-23T02:32:02.431Z [weather] [error] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging) {"context":"connection"}
+2025-04-23T02:32:02.431Z [weather] [info] Client transport closed

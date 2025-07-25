@@ -1,0 +1,6 @@
+    "weather": {
+      "command": "C:\\Users\\MAC\\.conda\\envs\\venv_lmm\\python.exe",
+      "args": [
+        "F:\\projects\\ai\\5-1.agent\\mcp-server-weather.py"
+      ]
+    },

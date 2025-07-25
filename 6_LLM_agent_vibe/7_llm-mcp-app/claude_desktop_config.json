@@ -1,0 +1,42 @@
+{
+	"mcpServers": {
+		"filesystem": {
+			"command": "npx",
+			"args": [
+				"-y",
+				"@modelcontextprotocol/server-filesystem",
+				"C:\\Users\\MAC\\Desktop",
+				"C:\\Users\\MAC\\Downloads"
+			]
+		},
+		"blender": {
+			"command": "uvx",
+			"args": [
+				"blender-mcp"
+			]
+		},
+		"simple-calc": {
+			"command": "uv",
+			"args": [
+				"run",
+				"--with",
+				"mcp[cli]",
+				"mcp",
+				"run",
+				"F:\\projects\\ai\\5-1.agent\\mcp-simple-calc.py"
+			]
+		},
+		"weather": {
+			"command": "C:\\Users\\MAC\\.conda\\envs\\venv_lmm\\python.exe",
+			"args": [
+				"F:\\projects\\ai\\5-1.agent\\mcp-weather.py"
+			]
+		},
+		"arduino-simulator": {
+			"command": "C:\\Users\\MAC\\.conda\\envs\\venv_lmm\\python.exe",
+			"args": [
+				"F:\\projects\\ai\\5-1.agent\\mcp-arduino-sim.py"
+			]
+		}		
+	}
+}

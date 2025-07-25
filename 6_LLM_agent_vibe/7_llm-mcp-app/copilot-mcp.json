@@ -1,0 +1,30 @@
+{
+	"inputs": [
+		// The "inputs" section defines the inputs required for the MCP server configuration. 
+		{
+			"type": "promptString"
+		}
+	],
+	"servers": {
+		// The "servers" section defines the MCP servers you want to use.
+		"fetch": {
+			"command": "uvx",
+			"args": ["mcp-server-fetch"]
+		}, 
+		"filesystem": {
+			"command": "npx",
+			"args": [
+				"-y",
+				"@modelcontextprotocol/server-filesystem",
+				"C:\\Users\\MAC\\Desktop",
+				"C:\\Users\\MAC\\Downloads"
+			]
+		},		
+		"blender": {
+			"command": "uvx",
+			"args": [
+				"blender-mcp"
+			]
+		}
+	}
+}
