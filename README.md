@@ -22,7 +22,7 @@ The repository is organized into several folders, each focusing on a specific ar
 
 ## Getting Started: Development Environment Setup
 
-[cite\_start]This section outlines the prerequisites and installation steps to prepare your working environment for a smooth hands-on experience[cite: 16]. [cite\_start]All materials can be downloaded from this repository[cite: 17].
+This section outlines the prerequisites and installation steps to prepare your working environment for a smooth hands-on experience. All materials can be downloaded from this repository.
 
 ### 1\. Account Sign-up
 
