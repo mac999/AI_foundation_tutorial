@@ -1,0 +1,1 @@
+pip install -U transformers accelerate bitsandbytes peft trl accelerate datasets
