@@ -11,7 +11,7 @@ The repository is organized into several folders, each focusing on a specific ar
   * `3_DL_foundation`: Deep Learning foundations.
   * `4_NLP`: Natural Language Processing.
   * `5_transformer`: Transformer models.
-  * `6_LLM_agent_vibe`: LLM Agent concepts and vibes.
+  * `6_LLM_agent_vibe`: LLM Agent concepts and vibe coding.
   * `7_service`: AI services related topics.
   * `8_AX_reference`: AI Transformation references.
   * `AI_foundation_and_trend.pdf`: A PDF document possibly detailing AI foundations and trends.
