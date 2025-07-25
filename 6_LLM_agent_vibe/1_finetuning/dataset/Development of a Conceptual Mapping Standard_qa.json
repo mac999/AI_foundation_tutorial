@@ -1,0 +1,1151 @@
+{
+  "responses": [
+    {
+      "index": 1,
+      "question": "What is the purpose of the B2GM standard?",
+      "answer": "proposes a mapping mechanism",
+      "vagueness": 0
+    },
+    {
+      "index": 2,
+      "question": "What are the benefits of using the B2GM approach for city-scale mapping?",
+      "answer": "The benets of the B2GM approach are that the user is able directly control the BIM-GIS linkage and integration process in order to acquire the necessary objection information.",
+      "vagueness": 0
+    },
+    {
+      "index": 3,
+      "question": "What is the focus of this study?",
+      "answer": "The development background, components, and utilization examples of B2GM, as well as the integration levels and considerations of different BIM-GIS models.",
+      "vagueness": 0
+    },
+    {
+      "index": 4,
+      "question": "What is the importance of considering information perspective for smart city services?",
+      "answer": "In order to realize smart city services such as facilities including effective building and energy management, we need to consider the information perspective.",
+      "vagueness": 0
+    },
+    {
+      "index": 5,
+      "question": "What are some benefits of using BIM information in GIS applications?",
+      "answer": "Indoor service implementation, such as emergency management",
+      "vagueness": 0
+    },
+    {
+      "index": 6,
+      "question": "What are the potential issues with integrating a BIM and GIS model?",
+      "answer": "Difculty for the user to predict the model integration results.",
+      "vagueness": 0
+    },
+    {
+      "index": 7,
+      "question": "What happens when unnecessary information is retained during the integration process?",
+      "answer": "The unnecessary information may make the management of the integrated model difficult and may increase the time and cost of management.",
+      "vagueness": 0
+    },
+    {
+      "index": 8,
+      "question": "What is the standardized way to define the BIM-GIS integration process?",
+      "answer": "from the point of view of use",
+      "vagueness": 0
+    },
+    {
+      "index": 9,
+      "question": "What is the purpose of this study?",
+      "answer": "This study proposes the BIM-GIM integration method based on B2GM, which is a standard under ISO/TC211.",
+      "vagueness": 0
+    },
+    {
+      "index": 10,
+      "question": "What is the proposed method for mapping object information from a user's use-case viewpoint onto a city scale?",
+      "answer": "The proposed method includes the BIM-GIS element, geometry, and a property set mapping method including external datasets.",
+      "vagueness": 0
+    },
+    {
+      "index": 11,
+      "question": "What was analyzed in the study?",
+      "answer": "ation and level",
+      "vagueness": 0
+    },
+    {
+      "index": 12,
+      "question": "What is the potential issue with retaining unnecessary information in a BIM-GIS model integration?",
+      "answer": "The unnecessary information may make the management of the integrated model difficult and may increase the time and cost of management.",
+      "vagueness": 0
+    },
+    {
+      "index": 13,
+      "question": "What is the standardized way to define the BIM-GIS integration process?",
+      "answer": "from the point of view of use, and the results should be clearly predictable",
+      "vagueness": 0
+    },
+    {
+      "index": 14,
+      "question": "What is the basis for the proposed BIM-GIM integration method?",
+      "answer": "B2GM (19166), which is a standard under ISO/TC211",
+      "vagueness": 0
+    },
+    {
+      "index": 15,
+      "question": "What is the proposed method for mapping object information from a user's viewpoint onto a city scale?",
+      "answer": "The proposed method includes the BIM-GIS element, geometry, and a property set mapping method including an external dataset.",
+      "vagueness": 0
+    },
+    {
+      "index": 16,
+      "question": "What is the purpose of the literature survey?",
+      "answer": "The scope of the literature survey was limited to the following keywords and purposes.",
+      "vagueness": 0
+    },
+    {
+      "index": 17,
+      "question": "What is the scope of research in this study?",
+      "answer": "The research surveyed includes BIM, GIS and similar keywords.",
+      "vagueness": 0
+    },
+    {
+      "index": 18,
+      "question": "What is the scope of the literature survey?",
+      "answer": "The literature surveyed includes BIM, GIS and similar keywords.",
+      "vagueness": 0
+    },
+    {
+      "index": 19,
+      "question": "What is the purpose of the B2GM?",
+      "answer": "B2GM was designed to solve integration problems between information models such as BIM and GIS.",
+      "vagueness": 0
+    },
+    {
+      "index": 20,
+      "question": "What is a common approach to enable data integration in GIS-BIM research?",
+      "answer": "Ontological modeling",
+      "vagueness": 0
+    },
+    {
+      "index": 21,
+      "question": "What is the purpose of creating a description framework?",
+      "answer": "to ask questions",
+      "vagueness": 0
+    },
+    {
+      "index": 22,
+      "question": "What is the purpose of applying an ontological modeling method for GIS and CAD data integration?",
+      "answer": "It makes a semantic interoperation between data models and processes possible.",
+      "vagueness": 0
+    },
+    {
+      "index": 23,
+      "question": "What was conducted on BIM-GIS integration based on RDF?",
+      "answer": "udy",
+      "vagueness": 1
+    },
+    {
+      "index": 24,
+      "question": "How can IFC data be expressed in CityGML?",
+      "answer": "IFC conversion to geography markup language (GML) and GML conversion to IFC are possible through a concept similar to extensible stylesheet language (XSLT).",
+      "vagueness": 0
+    },
+    {
+      "index": 25,
+      "question": "What was the study's approach to using IFC-based partial models?",
+      "answer": "It used a co-work environment in connection with the mapping method.",
+      "vagueness": 0
+    },
+    {
+      "index": 26,
+      "question": "What is the purpose of STEP-P21?",
+      "answer": "STEP-P21 provides a clear text encoding method for information exchange.",
+      "vagueness": 0
+    },
+    {
+      "index": 27,
+      "question": "What is another method of schema mapping?",
+      "answer": "information extraction technology using the generalised model subset definition schema (GMSD)-based partial model and the partial model query language (PMQL)",
+      "vagueness": 0
+    },
+    {
+      "index": 28,
+      "question": "What is the goal of extracting BIM data?",
+      "answer": "Using the ESRI commercial ETL software, it extracted the BIM data required for the implementation of a use case of landscaping planning.",
+      "vagueness": 0
+    },
+    {
+      "index": 29,
+      "question": "What is the purpose of a study on extending BIM models?",
+      "answer": "To implement GIS-based use cases such as site selection and re management in the construction category",
+      "vagueness": 0
+    },
+    {
+      "index": 30,
+      "question": "What is the goal of incorporating CT model data into GIS geographical data model?",
+      "answer": "to store it in ESRIs shapele and geodatabase structure",
+      "vagueness": 0
+    },
+    {
+      "index": 31,
+      "question": "What is the focus of most studies on BIM-GIS model integration?",
+      "answer": "The development of ontological models, schema expansion, web services and applications, and commercial-solution-based data extraction modules.",
+      "vagueness": 0
+    },
+    {
+      "index": 32,
+      "question": "What technique is used for integrating BIM and GIS heterogeneous models?",
+      "answer": "Ontological modeling",
+      "vagueness": 0
+    },
+    {
+      "index": 33,
+      "question": "What is an example of how to integrate BIM and GIS models?",
+      "answer": "Developing web services that can be called through a specific programming language",
+      "vagueness": 0
+    },
+    {
+      "index": 34,
+      "question": "What can affect the performance of web services?",
+      "answer": "network traffic or the amount of information transmitted",
+      "vagueness": 0
+    },
+    {
+      "index": 35,
+      "question": "What are the limitations of one-on-one mapping between heterogeneous models?",
+      "answer": "It's impossible in many cases.",
+      "vagueness": 0
+    },
+    {
+      "index": 36,
+      "question": "What are the potential problems with integrating models?",
+      "answer": "er problems involving lowering the performance and being incompatible as a result of model integration.",
+      "vagueness": 0
+    },
+    {
+      "index": 37,
+      "question": "What is the structure of the IFC standard model?",
+      "answer": "The IFC standard model has a binary structure.",
+      "vagueness": 0
+    },
+    {
+      "index": 38,
+      "question": "What is the purpose of developing IFC?",
+      "answer": "data exchange",
+      "vagueness": 0
+    },
+    {
+      "index": 39,
+      "question": "What is the basis for ch?",
+      "answer": "The entity relationship model",
+      "vagueness": 0
+    },
+    {
+      "index": 40,
+      "question": "What is IFC?",
+      "answer": "IFC describes the information schema in the EXPRESS language based on the object-oriented concept.",
+      "vagueness": 0
+    },
+    {
+      "index": 41,
+      "question": "What are the architectural elements, materials, and processes extended from kernel objects?",
+      "answer": "Various",
+      "vagueness": 0
+    },
+    {
+      "index": 42,
+      "question": "What are part of BPM technologies?",
+      "answer": "BPMN (business process model and notation) and ER (exchange requirement)",
+      "vagueness": 0
+    },
+    {
+      "index": 43,
+      "question": "What is CityGML?",
+      "answer": "CityGML is a GIS-based open object information model developed by OGC (Open Geospatial Consortium). It is the ISO TC211 standard and a GML-based application schema that functions as an information interoperation format in city object models.",
+      "vagueness": 0
+    },
+    {
+      "index": 44,
+      "question": "What are the key differences between GML and CityGML?",
+      "answer": "CityGML defines models, materials, features, and their mutual phase relationships, whereas GML lacks these enhancements; it only defines geometry, features, and a material dictionary.",
+      "vagueness": 0
+    },
+    {
+      "index": 45,
+      "question": "What is the schema hierarchy structure design of CityGML?",
+      "answer": "CityGML bases its schema hierarchy structure design on features.",
+      "vagueness": 0
+    },
+    {
+      "index": 46,
+      "question": "What design pattern does a lection use?",
+      "answer": "composite",
+      "vagueness": 0
+    },
+    {
+      "index": 47,
+      "question": "What is CityGML?",
+      "answer": "CityGML is a GIS-based open object information model developed by OGC (Open Geospatial Consortium). It is the ISO TC211 standard and a GML-based application schema that functions as an information interoperation format in city object models.",
+      "vagueness": 0
+    },
+    {
+      "index": 48,
+      "question": "What is the main goal of CityGML?",
+      "answer": "to more efciently develop three-dimensional spatial modeling",
+      "vagueness": 0
+    },
+    {
+      "index": 49,
+      "question": "What is CityGML based on?",
+      "answer": "features",
+      "vagueness": 0
+    },
+    {
+      "index": 50,
+      "question": "What is the role of FeatureCollection in managing city objects?",
+      "answer": "It uses the composite design pattern as an object container to manage many city objects.",
+      "vagueness": 0
+    },
+    {
+      "index": 51,
+      "question": "What is the purpose of comparing a building with the GIS standard model?",
+      "answer": "Based on the aforementioned surveyed schema structure, the differences in the application purpose, development method, basic concept, shape definition structure, and LOD were examined.",
+      "vagueness": 0
+    },
+    {
+      "index": 52,
+      "question": "What is the primary focus of IFC schema?",
+      "answer": "building modeling and operational aspects",
+      "vagueness": 0
+    },
+    {
+      "index": 53,
+      "question": "What is OOA/D?",
+      "answer": "Object-oriented analysis and design, developed as an IfcObject-based schema to express object attributes, acts, and shape.",
+      "vagueness": 0
+    },
+    {
+      "index": 54,
+      "question": "What does the IFCWallStandardCase geometry derive from?",
+      "answer": "The GM class package",
+      "vagueness": 0
+    },
+    {
+      "index": 55,
+      "question": "What is stored in the IfcProductRepresentation object?",
+      "answer": "ed at the designers modeling time",
+      "vagueness": 1
+    },
+    {
+      "index": 56,
+      "question": "What are the parameters and attribute information represented in Pset_BuildingCommon?",
+      "answer": "BuildingID, ContructionMethod, CrossPlannedArea, NetPlannedArea, IsLandMark, etc.",
+      "vagueness": 0
+    },
+    {
+      "index": 57,
+      "question": "What is the focus of the -to-GIS conceptual mapping (B2GM)?",
+      "answer": "mapping the facility model (including buildings) on the city scale from BIM",
+      "vagueness": 0
+    },
+    {
+      "index": 58,
+      "question": "What is the primary function of B2G EM?",
+      "answer": "B2G EM supports element mapping from the BIM model to the GIS model.",
+      "vagueness": 0
+    },
+    {
+      "index": 59,
+      "question": "What is the purpose of extracting LOD information from BIM models for GIS representation?",
+      "answer": "To represent BIM objects in GIS and to define a visualization mechanism and classes similar to the concept of B-Rep based on a surface.",
+      "vagueness": 0
+    },
+    {
+      "index": 60,
+      "question": "What is the purpose of urban facility management (UFM)?",
+      "answer": "Perspective depends on the use case.",
+      "vagueness": 1
+    },
+    {
+      "index": 61,
+      "question": "What is the main purpose of B2GM?",
+      "answer": "to define the basic mapping requirement between BIM and GIS, including the external dataset",
+      "vagueness": 0
+    },
+    {
+      "index": 62,
+      "question": "What is the purpose of using BIM object visualization in GIS and other application services?",
+      "answer": "BIM object visualization in GIS and other application services that require query processing depending on the relationship between BIM and GIS objects, either in the real or virtual world, will be able to use the mechanisms to map the required information elements between the two systems.",
+      "vagueness": 0
+    },
+    {
+      "index": 63,
+      "question": "What information can be extracted from the BIM model?",
+      "answer": "It can be defined by the LOD mapping rule set.",
+      "vagueness": 0
+    },
+    {
+      "index": 64,
+      "question": "What is the primary function of the Building-to-GIS Mapping (B2GM)?",
+      "answer": "The main purpose of B2GM is to define the basic mapping requirement between BIM and GIS.",
+      "vagueness": 0
+    },
+    {
+      "index": 65,
+      "question": "What international standards does B2GM use?",
+      "answer": "B2GM uses existing international standards such as geography markup language (GML), CityGML, and Industry Foundation Classes (IFC).",
+      "vagueness": 0
+    },
+    {
+      "index": 66,
+      "question": "What is the focus of B2GM?",
+      "answer": "B2GM focuses on providing the concept and method that can conceptually define the information required",
+      "vagueness": 0
+    },
+    {
+      "index": 67,
+      "question": "What does B2GM focus on?",
+      "answer": "providing the concept and method",
+      "vagueness": 0
+    },
+    {
+      "index": 68,
+      "question": "What information is required for BIM-GIS heterogeneous model mapping?",
+      "answer": "Perspective information representation, depending on specific use cases, such as user facility management: Perspective depends on the use case to extract the needed data. PD consists of three parts to extract the needed external FM data.",
+      "vagueness": 0
+    },
+    {
+      "index": 69,
+      "question": "What is the process of transforming a BIM model into a GIS model element?",
+      "answer": "ansformation from the BIM to a GIS model element",
+      "vagueness": 0
+    },
+    {
+      "index": 70,
+      "question": "What is the purpose of using B2GM PD, LM, and EM in integrating heterogeneous-data models?",
+      "answer": "The necessary information can be extracted from a specific use-case perspective.",
+      "vagueness": 0
+    },
+    {
+      "index": 71,
+      "question": "What is the purpose of LOD definition and mapping from the BIM to the GIS model?",
+      "answer": "The LOD models define a visualization mechanism.",
+      "vagueness": 0
+    },
+    {
+      "index": 72,
+      "question": "What is the purpose of GM mechanism in data synchronization?",
+      "answer": "GM mechanism can synchronize the data.",
+      "vagueness": 0
+    },
+    {
+      "index": 73,
+      "question": "What are the challenges in querying information that includes both GIS and BIM information elements from an integrated database?",
+      "answer": "It is impossible to define mapping mechanisms considering the myriads of physical BIM and GIS models, and it is also difficult to standardize them.",
+      "vagueness": 0
+    },
+    {
+      "index": 74,
+      "question": "What is the purpose of using a BIM-based DB in Facility Management?",
+      "answer": "B2G EM (External DB) Heterogeneous System Ex) File IO Information Query",
+      "vagueness": 0
+    },
+    {
+      "index": 75,
+      "question": "What is the purpose of using a conceptual mapping mechanism in B2GM?",
+      "answer": "By using the mapping framework, it is possible to query the information from the linked database that utilizes the mapped BIM information.",
+      "vagueness": 0
+    },
+    {
+      "index": 76,
+      "question": "What is the purpose of conceptualizing the mapping requirements in B2GM?",
+      "answer": "To standardize the BIM and GIS models",
+      "vagueness": 0
+    },
+    {
+      "index": 77,
+      "question": "What information can a BIM model define about object elements?",
+      "answer": "BIM model element: It should be able to define the runtime of construction components, geometry, property, and relationship.",
+      "vagueness": 0
+    },
+    {
+      "index": 78,
+      "question": "What is the purpose of building information components in a BIM model?",
+      "answer": "Building information components such as walls, doors, and rooms.",
+      "vagueness": 0
+    },
+    {
+      "index": 79,
+      "question": "What is created when creating a BIM model?",
+      "answer": "The system properties are the BIM element name and the GUID.",
+      "vagueness": 0
+    },
+    {
+      "index": 80,
+      "question": "What is the purpose of defining object information in a BIM model?",
+      "answer": "It should be able to define the following object information",
+      "vagueness": 1
+    },
+    {
+      "index": 81,
+      "question": "What types of BIM element can be identified by runtime information?",
+      "answer": "Building information components such as walls, doors, and rooms.",
+      "vagueness": 0
+    },
+    {
+      "index": 82,
+      "question": "What is the purpose of system properties in a BIM model?",
+      "answer": "The system properties are automatically created when creating a BIM model.",
+      "vagueness": 0
+    },
+    {
+      "index": 82,
+      "question": "What types of relationships exist between BIM elements?",
+      "answer": "The relationships follow the UML relationships. The relationships covered in this standard are association, dependency, and generalization.",
+      "vagueness": 1
+    },
+    {
+      "index": 83,
+      "question": "What is the purpose of setting link information with a BIM database?",
+      "answer": "To set link information with an external database",
+      "vagueness": 0
+    },
+    {
+      "index": 84,
+      "question": "What is the runtime information used for in construction components?",
+      "answer": "It is used to identify the types of BIM element.",
+      "vagueness": 0
+    },
+    {
+      "index": 85,
+      "question": "What is the purpose of defining system properties?",
+      "answer": "to define the property information",
+      "vagueness": 0
+    },
+    {
+      "index": 85,
+      "question": "What are the system properties automatically created for when creating a BIM model?",
+      "answer": "BIM element name and GUID",
+      "vagueness": 0
+    },
+    {
+      "index": 85,
+      "question": "What types of relationships does this standard cover between BIM elements?",
+      "answer": "association, dependency, and generalization (UML relationships)",
+      "vagueness": 0
+    },
+    {
+      "index": 85,
+      "question": "What is the GIS model referred to in this context?",
+      "answer": "It should be a [ unclear ]",
+      "vagueness": 1
+    },
+    {
+      "index": 86,
+      "question": "What is the GIS model element?",
+      "answer": "A GIS model element that defines runtime, geometry, property, and relationship components.",
+      "vagueness": 0
+    },
+    {
+      "index": 87,
+      "question": "What types of elements does ep support?",
+      "answer": "ep supports vertex, edge, loop, and face, which are supported by GFM.",
+      "vagueness": 0
+    },
+    {
+      "index": 88,
+      "question": "What types of relationships are covered in this standard?",
+      "answer": "association, dependency, and generalization",
+      "vagueness": 0
+    },
+    {
+      "index": 89,
+      "question": "What are the requirements for each package in the B2GM?",
+      "answer": "Each package must meet the requirements described in Table 2 to perform the mapping function.",
+      "vagueness": 0
+    },
+    {
+      "index": 90,
+      "question": "What are the requirements for B2GM PD?",
+      "answer": "It supports external legacy data associations and views that require BIM from a use-case perspective.",
+      "vagueness": 0
+    },
+    {
+      "index": 91,
+      "question": "What predefined operators must be defined for element mapping?",
+      "answer": "The following mapping operators",
+      "vagueness": 0
+    },
+    {
+      "index": 92,
+      "question": "What is the purpose of the BIM and GIS model?",
+      "answer": "The BIM and GIS model class structures reflecting the requirements describe",
+      "vagueness": 1
+    },
+    {
+      "index": 93,
+      "question": "What is the purpose of each B2GM package?",
+      "answer": "Each package must meet the requirements described in Table 2 to perform the mapping function.",
+      "vagueness": 0
+    },
+    {
+      "index": 94,
+      "question": "What is required to uniquely link external legacy data to a BIM model element?",
+      "answer": "The external legacy data should be capable of being uniquely linked to the PK (primary key), such as the BIM element GUID.",
+      "vagueness": 0
+    },
+    {
+      "index": 96,
+      "question": "What is the purpose of expressing the BIM and GIS model class structures?",
+      "answer": "The BIM and GIS model class structures can be expressed to reflect the requirements described in Table 3.",
+      "vagueness": 0
+    },
+    {
+      "index": 97,
+      "question": "What are the requirements for a package to perform the mapping function?",
+      "answer": "The package must meet the requirements described in Table 2.",
+      "vagueness": 0
+    },
+    {
+      "index": 98,
+      "question": "What is required to link a legacy data item to a BIM model element?",
+      "answer": "The data view must define an external legacy data item to link to the BIM model element.",
+      "vagueness": 0
+    },
+    {
+      "index": 100,
+      "question": "What is the purpose of B2GM PD?",
+      "answer": "It supports external legacy data associations and views that require BIM from a use-case perspective.",
+      "vagueness": 0
+    },
+    {
+      "index": 101,
+      "question": "What is the purpose of a legacy data item in linking to a BIM model element?",
+      "answer": "The value of the associated data item must be changeable into a format that can be used in the use-case.",
+      "vagueness": 0
+    },
+    {
+      "index": 102,
+      "question": "What method does the text support for representing perspective information?",
+      "answer": "perspective information representation",
+      "vagueness": 0
+    },
+    {
+      "index": 103,
+      "question": "What is the purpose of B2GM PD in binding and using BIM, GIS, and external data sets?",
+      "answer": "B2GM PD includes methods to determine which data is needed for the use-case from the BIM model, how to extract and integrate the data between BIM-GIS and an external data set, and how to represent the integrated information.",
+      "vagueness": 0
+    },
+    {
+      "index": 104,
+      "question": "What is Data View?",
+      "answer": "Denotes the data view, which expresses the extracted data as BIM object properties.",
+      "vagueness": 0
+    },
+    {
+      "index": 106,
+      "question": "What is the purpose of ETL in geospatial data processing?",
+      "answer": "ETL is used to extract, convert, and store data from various sources into a form that can be easily used.",
+      "vagueness": 0
+    },
+    {
+      "index": 107,
+      "question": "What is the method by which data is displayed on the user interface?",
+      "answer": "Formatting can be expressed in XML form.",
+      "vagueness": 0
+    },
+    {
+      "index": 108,
+      "question": "What does PD style view define?",
+      "answer": "It includes the formatting operation designed to convert the data value form from the user perspective, together with the unit.",
+      "vagueness": 0
+    },
+    {
+      "index": 109,
+      "question": "What is required to connect external data with BIM elements?",
+      "answer": "An object GUID and definable PK for data binding",
+      "vagueness": 0
+    },
+    {
+      "index": 110,
+      "question": "What is defined in the ETL_module?",
+      "answer": "BIM database",
+      "vagueness": 0
+    },
+    {
+      "index": 111,
+      "question": "What is described in Figure 12?",
+      "answer": "as buildings, floors, walls, windows, etc.",
+      "vagueness": 0
+    },
+    {
+      "index": 112,
+      "question": "What does PD Perspective define?",
+      "answer": "PD Perspective defines the logic view, data view, and style view.",
+      "vagueness": 0
+    },
+    {
+      "index": 113,
+      "question": "What is the purpose of mapping elements in a data view?",
+      "answer": "To connect external data with BIM elements",
+      "vagueness": 0
+    },
+    {
+      "index": 114,
+      "question": "What is the purpose of defining an object mapping mechanism in terms of transforming BIM model elements to GIS model elements?",
+      "answer": "To transform the elements from the BIM model to the GIS model",
+      "vagueness": 0
+    },
+    {
+      "index": 115,
+      "question": "What is the purpose of considering LOD mapping method for implementing transformation of elements from BIM model to GIS model?",
+      "answer": "To implement the transformation of the elements from the BIM model to the GIS model, the LOD mapping method needs to be considered.",
+      "vagueness": 0
+    },
+    {
+      "index": 116,
+      "question": "What is the method for transforming LODs from a BIM model to a GIS model?",
+      "answer": "B2G LM",
+      "vagueness": 0
+    },
+    {
+      "index": 117,
+      "question": "What is the purpose of Figure 14?",
+      "answer": "Information connection approach for element data synchronization, propagation-enabled.",
+      "vagueness": 0
+    },
+    {
+      "index": 118,
+      "question": "What is the method for transforming LODs from the BIM model to the GIS model?",
+      "answer": "B2G LM",
+      "vagueness": 0
+    },
+    {
+      "index": 119,
+      "question": "What is the purpose of considering LOD mapping method for implementing element transformation from BIM model to GIS model?",
+      "answer": "To implement the transformation of elements from the BIM model to the GIS model",
+      "vagueness": 0
+    },
+    {
+      "index": 120,
+      "question": "What is the method for transforming LODs from the BIM model to the GIS model?",
+      "answer": "B2G LM",
+      "vagueness": 0
+    },
+    {
+      "index": 121,
+      "question": "What is the purpose of defining URLs for the source and destination in B2GM EM?",
+      "answer": "The purpose is for element attribute data synchronization and source data change propagation.",
+      "vagueness": 0
+    },
+    {
+      "index": 122,
+      "question": "What is the purpose of the LOD mapping method?",
+      "answer": "To implement the transformation of elements from the BIM model to the GIS model",
+      "vagueness": 0
+    },
+    {
+      "index": 123,
+      "question": "What is the method for transforming LODs from a BIM model to a GIS model?",
+      "answer": "B2G LM",
+      "vagueness": 0
+    },
+    {
+      "index": 124,
+      "question": "What is the information connection approach for element data synchronization?",
+      "answer": "EM_ruleset",
+      "vagueness": 0
+    },
+    {
+      "index": 125,
+      "question": "What is the method for transforming LODs from BIM to GIS model?",
+      "answer": "B2G LM",
+      "vagueness": 0
+    },
+    {
+      "index": 126,
+      "question": "What is the purpose of extracting LOD information from a BIM model?",
+      "answer": "To represent a BIM object in GIS",
+      "vagueness": 0
+    },
+    {
+      "index": 127,
+      "question": "What is the purpose of decreasing the information complexity and improving the information visualization performance?",
+      "answer": "decreasing the information complexity and improving the information visualization performance",
+      "vagueness": 0
+    },
+    {
+      "index": 128,
+      "question": "What is the operator required for the definition of the B2GM LM ruleset?",
+      "answer": "LM rule set operators",
+      "vagueness": 0
+    },
+    {
+      "index": 129,
+      "question": "What is the purpose of the B (oriented bounding box) function?",
+      "answer": "Returns the geometry2D mapped onto the reference surface that designates the geometry of Building element el in the enum plane type boundary.",
+      "vagueness": 0
+    },
+    {
+      "index": 130,
+      "question": "What does the exterior function do?",
+      "answer": "Extracts only the outside surface of a given geometry",
+      "vagueness": 0
+    },
+    {
+      "index": 131,
+      "question": "What is the purpose of subtract operation in geometry?",
+      "answer": "Returns the results of the geometry g1 and g2 subtraction operation to geometry",
+      "vagueness": 0
+    },
+    {
+      "index": 132,
+      "question": "What defines the 3D vector elements?",
+      "answer": "height vector3D v[3]: real",
+      "vagueness": 0
+    },
+    {
+      "index": 133,
+      "question": "What is the method for generating each LODs of the GIS element from the geometric representation of the BIM geometry?",
+      "answer": "By using the rule set and operators",
+      "vagueness": 0
+    },
+    {
+      "index": 134,
+      "question": "What is the purpose of B2GM in terms of model integration?",
+      "answer": "B2GM supports the integration of heterogeneous models, but it's not a perfect solution.",
+      "vagueness": 0
+    },
+    {
+      "index": 135,
+      "question": "What is the purpose of the B2G LM concept diagram?",
+      "answer": "Figure 15. B2G LM concept diagram (UML).",
+      "vagueness": 0
+    },
+    {
+      "index": 136,
+      "question": "What is dened from the geometric representation of BIM geometry?",
+      "answer": "LODs of the GIS element",
+      "vagueness": 0
+    },
+    {
+      "index": 137,
+      "question": "What member defines the 3D shape?",
+      "answer": "Figure 15. B2G LM concept diagram (UML)",
+      "vagueness": 0
+    },
+    {
+      "index": 138,
+      "question": "What are some operators used in B2G LM rule set?",
+      "answer": "including operators such as simple solid modelling functions and set operators (union , intersect )",
+      "vagueness": 0
+    },
+    {
+      "index": 139,
+      "question": "What is the purpose of a BIM model?",
+      "answer": "ometry BIM_model",
+      "vagueness": 0
+    },
+    {
+      "index": 140,
+      "question": "What is the purpose of B2GM in integrating heterogeneous models?",
+      "answer": "B2GM supports BIM-GIS model integration, but it's not a perfect solution.",
+      "vagueness": 0
+    },
+    {
+      "index": 141,
+      "question": "What is a practical approach to define integration levels in system implementation?",
+      "answer": "Defining the integration level by making it into use-cases before system implementation, and defining the integration mapping mechanism.",
+      "vagueness": 0
+    },
+    {
+      "index": 142,
+      "question": "What was analyzed?",
+      "answer": "The text",
+      "vagueness": 0
+    },
+    {
+      "index": 143,
+      "question": "What is the primary focus of the M-GIS operation platform?",
+      "answer": "Demonstration",
+      "vagueness": 0
+    },
+    {
+      "index": 144,
+      "question": "What is the purpose of a BIM-GIS middleware software?",
+      "answer": "A BIM-GIS middleware software for data mining that has been studied by KICT.",
+      "vagueness": 0
+    },
+    {
+      "index": 145,
+      "question": "What are the limitations of CityEngine?",
+      "answer": "The BIM-GIS integration process is not standardized. Data can be missed in the process of converting BIM into a CityEngine-supportive format",
+      "vagueness": 0
+    },
+    {
+      "index": 147,
+      "question": "What are the limitations of developing a new data schema based on FME?",
+      "answer": "The development of the new data schema based on FME requires a significant amount of time and efforts.",
+      "vagueness": 0
+    },
+    {
+      "index": 148,
+      "question": "What are the characteristics of Rver.org?",
+      "answer": "Open source; the implementation process has been disclosed; can support the IF standard format and can make complex inquiries about the BIM shape, attributes, and phase information; a CityGML ADE (application domain extend) method that considers BIM information schema extension [27].",
+      "vagueness": 0
+    },
+    {
+      "index": 149,
+      "question": "What types of BIM-GIS integration data are there?",
+      "answer": "The types of BIM-GIS integration data are varied",
+      "vagueness": 0
+    },
+    {
+      "index": 150,
+      "question": "What are some common problems with commercial software solutions?",
+      "answer": "se problems such as heaviness, slow processing, data loss, unnecessary data input, and re-work costs.",
+      "vagueness": 0
+    },
+    {
+      "index": 151,
+      "question": "What is the purpose of standardizing model integration?",
+      "answer": "To facilitate checking and management of quality and reduce costs",
+      "vagueness": 0
+    },
+    {
+      "index": 152,
+      "question": "What is the main benefit of integrating models?",
+      "answer": "ensure data consistency and synchronization between models",
+      "vagueness": 0
+    },
+    {
+      "index": 153,
+      "question": "What is the method of integrating BIM-GIS from the use case perspective?",
+      "answer": "Using B2GM PD and EM, specify the method of integrating BIM-GIS from the use case perspective",
+      "vagueness": 0
+    },
+    {
+      "index": 154,
+      "question": "What are the benefits of using an integrated data management model?",
+      "answer": "Data synchronization is considered by specifying the data reference source by using URL.",
+      "vagueness": 0
+    },
+    {
+      "index": 155,
+      "question": "What is the significance of defining the integration level before integrating a smart city's ration?",
+      "answer": "The integration level should be defined to ensure successful implementation and quality inspection.",
+      "vagueness": 0
+    },
+    {
+      "index": 156,
+      "question": "What is more important in facility management use cases?",
+      "answer": "The facility management history attribute",
+      "vagueness": 0
+    },
+    {
+      "index": 157,
+      "question": "What is the relationship between G-IL4 and BG-IL5?",
+      "answer": "Integration (RI) and Semantic Information Integration (SIM)",
+      "vagueness": 0
+    },
+    {
+      "index": 158,
+      "question": "What information is needed to analyze and manage facility energy?",
+      "answer": "Historical information related to the building's ancestry",
+      "vagueness": 1
+    },
+    {
+      "index": 159,
+      "question": "What is the definition of BG-IL?",
+      "answer": "BG-IL1 Coordinate Reference System Integration (CRSI) Local Coordinate Reference System (CRS), Building CRS, Site CRS, World CRS (WGS84, IRTF, CRS80 . . . )",
+      "vagueness": 0
+    },
+    {
+      "index": 160,
+      "question": "What are the types of architectural elements?",
+      "answer": [
+        "Wall",
+        "Door",
+        "Floor",
+        "Ceiling",
+        "Window",
+        "Roof"
+      ],
+      "vagueness": 0
+    },
+    {
+      "index": 161,
+      "question": "What information is required to analyze and manage facility energy?",
+      "answer": "Related historical information",
+      "vagueness": 0
+    },
+    {
+      "index": 162,
+      "question": "What is the focus of Visualization City?",
+      "answer": "Visualization City focuses on visualization, rendering, and viewing, as well as landscape analysis.",
+      "vagueness": 0
+    },
+    {
+      "index": 163,
+      "question": "What does 'BG-IL' mean in the context of model integration?",
+      "answer": "It does not refer to the completeness of model integration.",
+      "vagueness": 0
+    },
+    {
+      "index": 164,
+      "question": "What was the primary finding from the analysis?",
+      "answer": "Most solutions related to the cases have a lower level of relationship and semantic integration.",
+      "vagueness": 0
+    },
+    {
+      "index": 165,
+      "question": "What is the highest level of integration?",
+      "answer": "Semantic integration",
+      "vagueness": 0
+    },
+    {
+      "index": 166,
+      "question": "What benefits do respondents expect from data integration?",
+      "answer": "benefit from data integration similar to the results in Figure 18",
+      "vagueness": 1
+    },
+    {
+      "index": 167,
+      "question": "What is the focus of the use case regarding BIM-GIS integration?",
+      "answer": "The focus is one-sided due to the lack of integration level.",
+      "vagueness": 0
+    },
+    {
+      "index": 168,
+      "question": "What are the types of model methods that may cause users to hesitate in using integration outputs?",
+      "answer": "B2GM defines the integration conditions and processes between different-type models using a formal method, so as to create a white box.",
+      "vagueness": 0
+    },
+    {
+      "index": 169,
+      "question": "What are the challenges in integrating BIM and GIS models?",
+      "answer": "The methods of schema integration, extension, linkage, etc. have their respective limitations",
+      "vagueness": 1
+    },
+    {
+      "index": 170,
+      "question": "What is the main goal of B2GM?",
+      "answer": "B2GM attempts to standardize the BIM-GIS model integration process to make it fit users' requirements from the use-case perspective.",
+      "vagueness": 0
+    },
+    {
+      "index": 171,
+      "question": "What are the key takeaways from the 2GM research?",
+      "answer": "The integration level (BG-IL) was defined, and examples of applicable use-cases were presented.",
+      "vagueness": 0
+    },
+    {
+      "index": 172,
+      "question": "What is the purpose of clearly describing the level of detail (LOD) in integrated output at the requirement definition level?",
+      "answer": "To ensure proper management of quality information models.",
+      "vagueness": 0
+    },
+    {
+      "index": 173,
+      "question": "What is the focus of the use case regarding BIM-GIS integration?",
+      "answer": "The focus of the use case is one-sided due to the lack of integration level.",
+      "vagueness": 0
+    },
+    {
+      "index": 174,
+      "question": "What are the potential issues with different types of model methods?",
+      "answer": "The outputs of integration may cause users to hesitate.",
+      "vagueness": 0
+    },
+    {
+      "index": 175,
+      "question": "What are the challenges in integrating BIM and GIS models?",
+      "answer": "It is not easy to integrate heterogeneous models.",
+      "vagueness": 0
+    },
+    {
+      "index": 176,
+      "question": "What is the main goal of BIM-GIS conceptual mapping (B2GM)?",
+      "answer": "Instead of integrating heterogeneous model schemas, it attempts to standardize the BIM-GIS model integration process to make it meet users' requirements from the use-case perspective.",
+      "vagueness": 0
+    },
+    {
+      "index": 177,
+      "question": "What was confirmed about model integration goals and strategies?",
+      "answer": "clearer model integration goals and strategies need to be derived",
+      "vagueness": 0
+    },
+    {
+      "index": 178,
+      "question": "What is the purpose of describing the integrated output at the requirement definition level?",
+      "answer": "To clearly describe the OD) of the integrated output",
+      "vagueness": 0
+    },
+    {
+      "index": 179,
+      "question": "What is the purpose of ISO/AWI 19166 Geographic Information BIM to GIS Conceptual Mapping?",
+      "answer": "ISO/AWI 19166 Geographic Information BIM to GIS Conceptual Mapping (B2GM) is a standard for conceptual mapping between Building Information Modeling (BIM) and Geographic Information Systems (GIS).",
+      "vagueness": 0
+    },
+    {
+      "index": 180,
+      "question": "What is the main topic of the text?",
+      "answer": "Interoperable data models for infrastructural artefacts",
+      "vagueness": 0
+    },
+    {
+      "index": 181,
+      "question": "What is the main approach used to integrate CAD and GIS in infrastructure management?",
+      "answer": "An ontological engineering approach",
+      "vagueness": 0
+    },
+    {
+      "index": 182,
+      "question": "What is the purpose of the High-Level Web Service for 3D Building Information Visualization and Analysis?",
+      "answer": "Visualization and analysis",
+      "vagueness": 0
+    },
+    {
+      "index": 183,
+      "question": "What is the publication date of 'Development Architecture for Industrial Data Management'?",
+      "answer": "2013",
+      "vagueness": 0
+    },
+    {
+      "index": 184,
+      "question": "What is the purpose of the IFC-CityGML unidirectional conversion?",
+      "answer": "An evaluation",
+      "vagueness": 0
+    },
+    {
+      "index": 185,
+      "question": "What is the purpose of site selection and response management processes?",
+      "answer": "nment in support of site selection and re response management processes.",
+      "vagueness": 1
+    },
+    {
+      "index": 186,
+      "question": "What is the Consortium mentioned in the text?",
+      "answer": "CityGML",
+      "vagueness": 0
+    },
+    {
+      "index": 187,
+      "question": "What is the perspective definition of metadata for interworking facility management data?",
+      "answer": "BIM",
+      "vagueness": 0
+    },
+    {
+      "index": 188,
+      "question": "What is being investigated?",
+      "answer": "integration possibilities between 3D modeling techniques",
+      "vagueness": 0
+    },
+    {
+      "index": 189,
+      "question": "What is the topic of the papers discussed?",
+      "answer": "Integration of Building Information Modeling (BIM) and Geographic Information Systems (GIS)",
+      "vagueness": 0
+    },
+    {
+      "index": 190,
+      "question": "What is the type of license used?",
+      "answer": "Creative Commons Attribution (CC BY) license",
+      "vagueness": 0
+    }
+  ]
+}
