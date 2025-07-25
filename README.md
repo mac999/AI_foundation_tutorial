@@ -109,10 +109,13 @@ Install these if time permits:
 
 Once the development environment is set up, you can navigate through the Jupyter notebooks (.ipynb files) within the repository's folders (e.g., `1_AX_trend`, `2_ML_basic`, `3_DL_foundation`, etc.) to explore various AI topics and hands-on examples.
 
+# Author
+Taewook Kang (laputa99999@gmail.com)
+
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
 
-For inquiries, please refer to the project's GitHub page.
+For inquiries, please send me email (laputa99999@gmail.com) or refer to the project's GitHub page.
