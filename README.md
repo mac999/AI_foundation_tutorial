@@ -1,6 +1,6 @@
 # AI Foundation Seminar Tutorial
 
-This repository contains materials for an AI Foundation seminar, covering fundamental concepts of AI, Machine Learning, Deep Learning, Natural Language Processing, Transformers, and Large Language Models (LLMs), including agent-based approaches and related services. It is designed to provide hands-on experience, primarily utilizing Jupyter Notebooks.
+This repository contains materials for an AI Foundation seminar, covering fundamental concepts of AI, Machine Learning, Deep Learning, Natural Language Processing, Transformers, and Large Language Models (LLMs), including agent-based approaches and related services. It is designed to provide hands-on experience, primarily utilizing Jupyter Notebooks. In reference, you can learn [How to develop AI agent with LLM](https://github.com/mac999/LLM-RAG-Agent-Tutorial), [computer vision with deep learing](https://github.com/mac999/computer_vision_deeplearning) and [AI for media art](https://github.com/mac999/llm-media-art-demo).
 
 ## Repository Structure
 
