@@ -1,0 +1,86 @@
+# AI Foundation Tutorial - Requirements
+# Core ML/DL Frameworks
+torchtext
+tensorflow
+
+# Transformers & NLP
+transformers
+datasets
+tokenizers
+sentencepiece
+
+# Hugging Face Ecosystem
+accelerate
+evaluate
+peft
+bitsandbytes
+
+# Data Science & Scientific Computing
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+plotly
+
+# Computer Vision
+opencv-python
+Pillow
+
+# Web Frameworks & APIs
+fastapi
+uvicorn
+streamlit
+gradio
+flask
+requests
+
+# LangChain & AI Agents
+langchain
+langchain-community
+langchain-openai
+langchain-experimental
+langgraph
+
+# Vector Databases & Search
+faiss-cpu
+chromadb
+
+# Document Processing
+pypdf
+pymupdf
+python-docx
+openpyxl
+
+# Jupyter & Development
+jupyter
+ipykernel
+ipywidgets
+notebook
+
+# Model Serving & Deployment
+onnx
+onnxruntime
+mlflow
+
+# Utilities
+tqdm
+python-dotenv
+pyyaml
+
+# Visualization & Monitoring
+tensorboard
+wandb
+
+# Optional: For Korean NLP (only if needed)
+# konlpy>=0.6.0
+# soynlp>=0.0.493
+
+# Optional: GPU Support (uncomment if using CUDA)
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
+# Note: Spacy removed due to compatibility issues
+# Install spacy separately if needed: pip install spacy
+# python -m spacy download en_core_web_sm
+# python -m spacy download ko_core_news_sm
