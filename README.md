@@ -21,7 +21,7 @@ The repository is organized into several folders, each focusing on a specific ar
 * `AI_foundation_and_trend.pdf`: A PDF slide document possibly detailing AI foundations and trends.
 * `AI_foundation_syllabus.docx`: The syllabus for the AI Foundation seminar.
 * `LICENSE`: Contains the MIT License information.
-* `LLM-lesson-plan.docx`: A lesson plan related to LLMs.
+* `LLM-lesson-plan.docx`: [A lesson plan related to LLMs](https://github.com/mac999/AI_foundation_tutorial/blob/main/LLM-lesson-plan.pdf).
 * `README.md`: This README file.
 
 ## Getting Started: Development Environment Setup
