@@ -17,8 +17,11 @@ load_dotenv()
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 TAVILY_API_KEY = os.getenv("TAVILY_API_KEY")
 
-VECTOR_DB_PATH = './faiss_index'
-FILES_DIRECTORY = './files'
+CURRENT_FILE_PATH = os.path.abspath(__file__)
+print(f"[INFO] Current file path: {CURRENT_FILE_PATH}")
+VECTOR_DB_PATH = os.path.join(os.path.dirname(CURRENT_FILE_PATH), 'faiss_index')
+FILES_DIRECTORY = os.path.join(os.path.dirname(CURRENT_FILE_PATH), 'files')
+
 CHUNK_SIZE = 2000
 CHUNK_OVERLAP = 300
 
