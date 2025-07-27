@@ -8,6 +8,8 @@ transformers
 datasets
 tokenizers
 sentencepiece
+trl
+tf-keras
 
 # Hugging Face Ecosystem
 accelerate
