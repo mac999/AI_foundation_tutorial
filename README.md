@@ -25,12 +25,12 @@ The repository is organized into several folders, each focusing on a specific ar
 * `README.md`: This README file.
 
 ## Getting Started: Development Environment Setup
+This section outlines the [prerequisites and installation steps](https://github.com/mac999/AI_foundation_tutorial/blob/main/2_ML_basic/dev-env.pdf) to prepare your working environment for a smooth hands-on experience. All materials can be downloaded from this repository.
+
 First, clone this repository. 
 ```bash
 git clone https://github.com/mac999/AI_foundation_tutorial.git
 ```
-
-This section outlines the [prerequisites and installation steps](https://github.com/mac999/AI_foundation_tutorial/blob/main/2_ML_basic/dev-env.pdf) to prepare your working environment for a smooth hands-on experience. All materials can be downloaded from this repository.
 
 ### 1. Account Sign-up
 
