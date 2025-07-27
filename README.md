@@ -60,6 +60,17 @@ The following AI services are recommended for project development:
 * **LangSmith:** [https://docs.smith.langchain.com/administration/how_to_guides/organization_management/create_account_api_key](https://docs.smith.langchain.com/administration/how_to_guides/organization_management/create_account_api_key) (LangChain logging & debug tool)
 * **Visily AI:** [https://app.visily.ai](https://app.visily.ai) (AI planning tool)
 
+Make .env file, input your API key and save it in this repository root folder.
+```bash
+OPENAI_API_KEY=<INPUT YOUR KEY>
+HF_TOKEN=<INPUT YOUR KEY>
+TAVILY_API_KEY=<INPUT YOUR KEY>
+LANGCHAIN_TRACING_V2=false
+LANGCHAIN_ENDPOINT=<INPUT YOUR KEY>
+LANGCHAIN_API_KEY=<INPUT YOUR KEY>
+LANGCHAIN_PROJECT=AGENT TUTORIAL
+```
+
 ### 3. Colab Setup
 
 1.  Open `colab-env.ipynb` from the following link in Google Colab: [https://github.com/mac999/LLM-RAG-Agent-Tutorial/tree/main/1-1.prepare](https://github.com/mac999/LLM-RAG-Agent-Tutorial/tree/main/1-1.prepare)
