@@ -1,0 +1,19 @@
+{
+  "peft_type": "LORA",
+  "task_type": "CAUSAL_LM",
+  "inference_mode": false,
+  "r": 64,
+  "lora_alpha": 32,
+  "lora_dropout": 0.05,
+  "target_modules": [
+    "q_proj",
+    "o_proj",
+    "k_proj",
+    "v_proj",
+    "gate_proj",
+    "up_proj",
+    "down_proj"
+  ],
+  "bias": "none",
+  "base_model_name_or_path": "google/gemma-2b-it"  
+}
