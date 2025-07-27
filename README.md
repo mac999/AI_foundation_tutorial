@@ -81,7 +81,7 @@ LANGCHAIN_PROJECT=AGENT TUTORIAL
 
 It is recommended to install these tools before the hands-on sessions to save time. Please install stable versions, as the latest versions may cause package installation errors. Ensure you check the "Add to PATH" option during installation if available.
 
-* **Python (Recommended 3.11):** [https://www.python.org](https://www.python.org)
+* **Python (Recommended 3.12. in 2025.7):** [https://www.python.org](https://www.python.org)
     * For Mac users, refer to the Python installation guide: [https://www.youtube.com](https://www.youtube.com)
     * Verify installation by running `python --version` in the terminal.
 * **NVIDIA Driver (for NVIDIA GPU users):** [https://www.nvidia.com/Download/index.aspx](https://www.nvidia.com/Download/index.aspx)
@@ -95,7 +95,7 @@ It is recommended to install these tools before the hands-on sessions to save ti
 * **Anaconda (Recommended 24.0 or higher):** [https://docs.anaconda.com/anaconda/install/](https://docs.anaconda.com/anaconda/install/)
 * **PyTorch Library:** Visit [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/) and install the CPU version or the GPU version compatible with your CUDA driver.
 * **Python Packages (using Anaconda virtual environment):**
-    * Create a conda virtual environment named `venv_lmm` with Python 3.11:
+    * Create a conda virtual environment named `venv_lmm` with Python 3.12:
         ```bash
         conda create --name venv_lmm python=3.12
         ```
