@@ -81,7 +81,7 @@ It is recommended to install these tools before the hands-on sessions to save ti
 * **Python Packages (using Anaconda virtual environment):**
     * Create a conda virtual environment named `venv_lmm` with Python 3.11:
         ```bash
-        conda create --name venv_lmm python=3.11
+        conda create --name venv_lmm python=3.12
         ```
     * Activate the environment:
         ```bash
@@ -89,8 +89,7 @@ It is recommended to install these tools before the hands-on sessions to save ti
         ```
     * Install core packages:
         ```bash
-        pip install pandas numpy
-        pip install ollama openai transformers huggingface_hub langchain
+        pip install -r requirements.txt 
         ```
 * **Docker (Optional):** Required for container-based operations. Visit [https://www.docker.com/get-started/](https://www.docker.com/get-started/) to install.
 * **Ollama:** Required for local LLM AI tools. Visit [https://www.ollama.com/](https://www.ollama.com/) to install.
