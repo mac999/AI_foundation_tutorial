@@ -1,4 +1,4 @@
-## AI foundation and trend semiar tutorial
+## AI foundation and trend semiar tutorial with code
 
 This repository contains materials for an [AI Foundation seminar](https://github.com/mac999/AI_foundation_tutorial/blob/main/AI_foundation_and_trend.pdf), covering fundamental concepts of AI, Machine Learning, Deep Learning, Natural Language Processing, Transformers, and Large Language Models (LLMs), including agent-based approaches and related services. It is designed to provide hands-on experience, primarily utilizing Jupyter Notebooks. In reference, you can learn [How to develop AI agent with LLM](https://github.com/mac999/LLM-RAG-Agent-Tutorial), [computer vision with deep learning](https://github.com/mac999/computer_vision_deeplearning) and [AI for media art](https://github.com/mac999/llm-media-art-demo).
 <br/><br/>
