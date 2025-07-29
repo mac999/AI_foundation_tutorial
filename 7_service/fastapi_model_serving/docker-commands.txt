@@ -1,0 +1,19 @@
+# Docker commands for YOLO FastAPI Server
+
+# Build Docker image
+docker build -t yolo-fastapi-server .
+
+# Run Docker container
+docker run -d -p 8000:8000 --name yolo-server yolo-fastapi-server
+
+# View logs
+docker logs yolo-server
+
+# Stop container
+docker stop yolo-server
+
+# Remove container
+docker rm yolo-server
+
+# Remove image
+docker rmi yolo-fastapi-server
