@@ -2,9 +2,11 @@
 
 This repository contains materials for an [AI Foundation seminar](https://github.com/mac999/AI_foundation_tutorial/blob/main/AI_foundation_and_trend.pdf), covering fundamental concepts of AI, Machine Learning, Deep Learning, Natural Language Processing, [Transformers with Vibe coding](https://github.com/mac999/AI_foundation_tutorial/blob/main/Transformer_LLM_Vibecoding.pdf), and Large Language Models (LLMs), including agent-based approaches and related services. It is designed to provide hands-on experience, primarily utilizing Jupyter Notebooks. In reference, you can learn [How to develop AI agent with LLM](https://github.com/mac999/LLM-RAG-Agent-Tutorial), [Computer Vision with Deep Learning](https://github.com/mac999/computer_vision_deeplearning) and [AI for Media Art](https://github.com/mac999/llm-media-art-demo).
 <br/><br/>
+<p align="center">
 <img height="150" src="https://github.com/mac999/AI_foundation_tutorial/blob/main/slide.png"/>
 <img height="150" src="https://github.com/mac999/AI_foundation_tutorial/blob/main/3_DL_foundation/net.png"/>
 <img height="150" src="https://github.com/mac999/AI_foundation_tutorial/blob/main/5_transformer/transformer-architecture.PNG"/>
+</p>
 
 ## Repository Structure
 
