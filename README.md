@@ -10,8 +10,8 @@ This repository contains materials for an [AI Foundation seminar](https://github
 <p align="center">
 <img height="150" src="https://github.com/mac999/AI_foundation_tutorial/blob/main/img/a3.png"/>
 <img height="150" src="https://github.com/mac999/AI_foundation_tutorial/blob/main/img/a2.png"/>
-<img height="150" src="https://github.com/mac999/AI_foundation_tutorial/blob/main/img/a4.PNG"/>
-<img height="150" src="https://github.com/mac999/AI_foundation_tutorial/blob/main/img/a5.PNG"/>
+<img height="150" src="https://github.com/mac999/AI_foundation_tutorial/blob/main/img/a4.png"/>
+<img height="150" src="https://github.com/mac999/AI_foundation_tutorial/blob/main/img/a5.png"/>
 </p>
 
 ## Repository Structure
