@@ -1,6 +1,10 @@
 ## AI foundation and trend seminar tutorial with code
 
 This repository contains materials for an [AI Foundation seminar](https://github.com/mac999/AI_foundation_tutorial/blob/main/AI_foundation_and_trend.pdf)([English version](https://github.com/mac999/AI_foundation_tutorial/blob/main/AI_foundation_and_trend(english).pdf)), covering fundamental concepts of AI, Machine Learning, Deep Learning, Natural Language Processing, [Transformers with Vibe coding](https://github.com/mac999/AI_foundation_tutorial/blob/main/Transformer_LLM_Vibecoding.pdf), and Large Language Models (LLMs), including agent-based approaches and related services. It is designed to provide hands-on experience, primarily utilizing Jupyter Notebooks. In reference, you can learn [How to develop AI agent with LLM](https://github.com/mac999/LLM-RAG-Agent-Tutorial), [Computer Vision with Deep Learning](https://github.com/mac999/computer_vision_deeplearning) and [AI for Media Art](https://github.com/mac999/llm-media-art-demo).
+
+- [How to develop AI agent with LLM](https://github.com/mac999/LLM-RAG-Agent-Tutorial): This repository contains LLM(large language model), RAG(retrieval augmented generation), AI Agent and MCP(Model Context Protocol) class focusing on creative AI agent development, modeling, and computing as the viewpoint of usecase. The colab code, source, presentation and reference with AI tools like below can be used for developing LLM, RAG and AI Agent. If you want to know the LLM, RAG and AI Agent with MCP subjects and materials, refer to the below link.
+- [Computer Vision with Deep Learning](https://github.com/mac999/computer_vision_deeplearning): This course goes beyond simply running pre-existing code. The core objective is to foster a deep understanding by having you implement the internal mechanisms of key deep learning models—such as CNN, ResNet, R-CNN, and YOLO—from the ground up. With hands-on exercises in PyTorch and Keras, you will gain proficiency in translating complex theories into functional code.
+
 <br/><br/>
 <p align="center">
 <img height="150" src="https://github.com/mac999/AI_foundation_tutorial/blob/main/slide.png"/>
