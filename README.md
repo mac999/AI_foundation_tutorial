@@ -26,8 +26,8 @@ The repository is organized into several folders, each focusing on a specific ar
 * `6_LLM_agent_vibe`: LLM Agent concepts and vibe coding.
 * `7_service`: AI services related topics.
 * `8_AX_reference`: AI Transformation references.
-* `AI_foundation_and_trend.pdf`: A PDF slide document possibly detailing AI foundations and trends.
-* [`AI_foundation_syllabus.pdf`](https://github.com/mac999/AI_foundation_tutorial/blob/main/AI_foundation_syllabus.pdf)[(english)](https://github.com/mac999/AI_foundation_tutorial/blob/main/AI_foundation_syllabus(english).pdf): The syllabus for the AI Foundation seminar.
+* `AI_foundation_and_trend.pdf`: PDF slide document possibly detailing AI foundations and trends.
+* `AI_foundation_syllabus.pdf`: [The syllabus for the AI Foundation seminar](https://github.com/mac999/AI_foundation_tutorial/blob/main/AI_foundation_syllabus.pdf)[(english)](https://github.com/mac999/AI_foundation_tutorial/blob/main/AI_foundation_syllabus(english).pdf).
 * `LICENSE`: Contains the MIT License information.
 * `LLM-lesson-plan.pdf`: [Lesson plan related to Transformer, LLM](https://github.com/mac999/AI_foundation_tutorial/blob/main/LLM-lesson-plan.pdf).
 * `README.md`: This README file.
