@@ -139,6 +139,14 @@ Install these if time permits:
 
 Once the development environment is set up, you can navigate through the Jupyter notebooks (.ipynb files) within the repository's folders (e.g., `1_AX_trend`, `2_ML_basic`, `3_DL_foundation`, etc.) to explore various AI topics and hands-on examples.
 
+## Collaboration & Research
+
+This repository is part of my ongoing work on AI, LLMs, and Transformer-based architectures.
+I am open to international research collaboration, academic exchange, and joint projects with universities, public institutions, and research labs.
+
+For collaboration inquiries, please feel free to reach out:
+📧 [laputa99999@gmail.com] | 🌐 [[LinkedIn or Personal Website](https://www.linkedin.com/feed/)]
+
 # Author
 Taewook Kang (laputa99999@gmail.com)
 
