@@ -148,7 +148,7 @@ For collaboration inquiries, please feel free to reach out:
 📧 [laputa99999@gmail.com] | 🌐 [[LinkedIn or Personal Website](https://www.linkedin.com/feed/)]
 
 # Author
-Taewook Kang (laputa99999@gmail.com)
+Ph.D, Taewook Kang (laputa99999@gmail.com)
 
 ## License
 
